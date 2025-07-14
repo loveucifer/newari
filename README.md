@@ -1,4 +1,4 @@
-# English-Newari Translation Model
+# English-Newari and vice versa  Translation Model
 
 This project provides scripts to fine-tune and use a machine translation model for translating between English (`eng_Latn`) and Newari (`new_Deva`) using the NLLB-200-distilled-600M model from Hugging Face, optimized with PyTorch and LoRA (Low-Rank Adaptation) for efficient training.
 
@@ -6,7 +6,7 @@ This project provides scripts to fine-tune and use a machine translation model f
 
 The project consists of two main scripts:
 - **`train_translation_model.py`**: Fine-tunes the NLLB-200 model on a parallel English-Newari dataset, optimizing for chrF and BLEU metrics.
-- **`test_translation_model.py`**: Loads the fine-tuned model to perform bidirectional translations (English ↔ Newari).
+- **`test_translation_model.py`**: Loads the fine-tuned model to perform bidirectional translations (English ↔ Newari or vice versa).
 
 The model is designed to run on CPU, GPU (CUDA), or MPS (Apple Silicon), with memory-efficient configurations for training and inference.
 

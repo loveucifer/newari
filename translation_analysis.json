@@ -1,0 +1,352 @@
+{
+  "analysis_timestamp": "2025-07-13T21:57:57.244059",
+  "model_directory": "./newari_model",
+  "generation_parameters": {
+    "num_beams": 5,
+    "num_return_sequences": 5
+  },
+  "results": [
+    {
+      "source_language": "English",
+      "target_language": "Newari",
+      "source_text": "Hello, how are you?",
+      "best_candidate": "हेलो, खः ?",
+      "all_candidates": [
+        {
+          "rank": 1,
+          "text": "हेलो, खः ?",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 2,
+          "text": "हेलो, छन्त ?",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 3,
+          "text": "हलो, छन्त ?",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 4,
+          "text": "हेलो, खः ।",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 5,
+          "text": "हेलो ।",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        }
+      ]
+    },
+    {
+      "source_language": "English",
+      "target_language": "Newari",
+      "source_text": "What is your name?",
+      "best_candidate": "? छन्त नाम ?",
+      "all_candidates": [
+        {
+          "rank": 1,
+          "text": "? छन्त नाम ?",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 2,
+          "text": "।",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 3,
+          "text": "निंतिं ?",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 4,
+          "text": "?",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 5,
+          "text": "? ?",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        }
+      ]
+    },
+    {
+      "source_language": "English",
+      "target_language": "Newari",
+      "source_text": "I am learning the Newari language.",
+      "best_candidate": "छु न्युआरी भाषा सीखेत ।",
+      "all_candidates": [
+        {
+          "rank": 1,
+          "text": "छु न्युआरी भाषा सीखेत ।",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 2,
+          "text": "छु न्युआरी भाषा सीखने ।",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 3,
+          "text": "छु न्युआरी भाषा सीखे ।",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 4,
+          "text": "छु न्युआरी भाषाया सीखेत ।",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 5,
+          "text": "छु न्युआरी भाषाया सीखे ।",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        }
+      ]
+    },
+    {
+      "source_language": "English",
+      "target_language": "Newari",
+      "source_text": "This is a beautiful place.",
+      "best_candidate": "यायेमाः ।",
+      "all_candidates": [
+        {
+          "rank": 1,
+          "text": "यायेमाः ।",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 2,
+          "text": "यायेत छन्त सुन्दर ठां ।",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 3,
+          "text": "यायेगु छन्त सुन्दर ठां ।",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 4,
+          "text": "यायेत छितः छितः छितः ।",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 5,
+          "text": "यायेत छन्त सुन्दर ठां।",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        }
+      ]
+    },
+    {
+      "source_language": "English",
+      "target_language": "Newari",
+      "source_text": "The sun is shining today.",
+      "best_candidate": "सूर्य छगू ।",
+      "all_candidates": [
+        {
+          "rank": 1,
+          "text": "सूर्य छगू ।",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 2,
+          "text": "सूर्य छितः ।",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 3,
+          "text": "सूर्य छगू छु ।",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 4,
+          "text": "या सूर्य छितः ।",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 5,
+          "text": "सूर्य छं ।",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        }
+      ]
+    },
+    {
+      "source_language": "Newari",
+      "target_language": "English",
+      "source_text": "जि छगू नेवाः हुँ ।",
+      "best_candidate": "You're the only one who can.",
+      "all_candidates": [
+        {
+          "rank": 1,
+          "text": "You're the only one who can.",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 2,
+          "text": "You're the only one who knows.",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 3,
+          "text": "You're the only one who is.",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 4,
+          "text": "I'm in the middle of a new one.",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 5,
+          "text": "I'm in the middle of a new world.",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        }
+      ]
+    },
+    {
+      "source_language": "Newari",
+      "target_language": "English",
+      "source_text": "छिगु नां छु खः ?",
+      "best_candidate": "What's your favorite type of food.",
+      "all_candidates": [
+        {
+          "rank": 1,
+          "text": "What's your favorite type of food.",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 2,
+          "text": "What is your favorite type of food.",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 3,
+          "text": "Don't you want to know?",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 4,
+          "text": "What's your favorite part of the night?",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 5,
+          "text": "What's your favorite type of food?",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        }
+      ]
+    },
+    {
+      "source_language": "Newari",
+      "target_language": "English",
+      "source_text": "नेपालभाषा सिक्दै छु ।",
+      "best_candidate": "I'm trying to learn the Nepali language.",
+      "all_candidates": [
+        {
+          "rank": 1,
+          "text": "I'm trying to learn the Nepali language.",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 2,
+          "text": "I'm in the process of learning the Nepali language.",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 3,
+          "text": "I'm in the process of learning a Nepali language.",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 4,
+          "text": "I'm trying to learn a Nepali language.",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 5,
+          "text": "I am trying to learn the Nepali language.",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        }
+      ]
+    },
+    {
+      "source_language": "Newari",
+      "target_language": "English",
+      "source_text": "थन तसकं बांलाः ।",
+      "best_candidate": "What's in your hand.",
+      "all_candidates": [
+        {
+          "rank": 1,
+          "text": "What's in your hand.",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 2,
+          "text": "You've got your fingers.",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 3,
+          "text": "What's your favorite part.",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 4,
+          "text": "What's in your hand:",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        },
+        {
+          "rank": 5,
+          "text": "What's in your hand: .",
+          "human_rating (1-5)": null,
+          "is_correct (true/false)": null
+        }
+      ]
+    }
+  ]
+}

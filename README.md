@@ -146,3 +146,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 For questions or issues, please open an issue on the repository or contact the maintainer.
+
+
+## Dataset
+dataset is soemthing i have built with my own research containing nearly 5000 high quality texts that are purpose built and will be uploaded soon
